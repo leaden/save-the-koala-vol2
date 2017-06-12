@@ -100,6 +100,11 @@ img{
 
 /*SECTION 5*/
 
+.text-icon{
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+
 .text-icon p{
 	color: black;
 
@@ -133,6 +138,7 @@ button{
     border: none;
     color: white;
 }
+
 
 
 /* footer*/
